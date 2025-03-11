@@ -50,3 +50,34 @@ Problem Statement: Write a Java program to check if a given number is positive o
 Problem Statement: Write a Java program to check if a given year is a leap year or not, considering leap year rules. A year is a leap year if it is divisible by 4. However, if a year is divisible by 100, it is not a leap year unless it is also divisible by 400.
 
 
+📌 Day 7: Check if a Number is Even or Odd using Logical Operators
+
+Problem Statement:
+Write a Java program to check if a given integer is even or odd using logical operators. Your task is to take an integer input and display whether the number is "Even" or "Odd".
+
+📌 Day 7: Calculate Compound Interest
+
+Problem Statement:
+Write a Java program to calculate compound interest. Given the principal, rate of interest, and time, compute the compound interest using the formula:
+
+Your task is to take the principal, rate, and time as inputs and display the calculated compound interest.
+
+📌 Day 8: Find the Largest of Two Numbers
+
+Problem Statement:
+Write a Java program to find the largest of two numbers. Your task is to take two integers as input and display the larger of the two numbers.
+
+📌 Day 8: Find the Largest of Three Numbers using If-Else Statements
+
+Problem Statement:
+Write a Java program to find the largest of three numbers using if-else statements. Your task is to take three integers as input and display the largest number among them.
+
+
+
+
+
+
+
+
+
+
