@@ -72,6 +72,74 @@ Write a Java program to find the largest of two numbers. Your task is to take tw
 Problem Statement:
 Write a Java program to find the largest of three numbers using if-else statements. Your task is to take three integers as input and display the largest number among them.
 
+📌Day 9: Check if a Number is Even or Odd and Print the Result
+
+Problem Statement: Write a Java program to check if a number is even or odd and print the result.
+
+📌Day 10: Find the Maximum of Two Numbers Using the Ternary Operator
+
+Problem Statement: Write a Java program to find the maximum of two numbers using the ternary operator.
+
+📌Day 10: Implement a Simple Calculator Using a Switch Statement
+
+Problem Statement: Write a Java program to implement a simple calculator using a switch statement.
+
+📌Day 11: Print Numbers from 1 to 10 Using a While Loop
+
+Problem Statement: Write a Java program to print numbers from 1 to 10 using a while loop.
+
+📌Day 11: Find the Sum of the First N Natural Numbers Using a While Loop
+
+Problem Statement: Write a Java program to find the sum of the first N natural numbers using a while loop.
+
+📌Day 12: Print a Square Pattern of Asterisks Using a For Loop
+
+Problem Statement: Write a Java program to print a square pattern of asterisks.
+
+📌Day 12: Reverse a Given Number Using a For Loop
+
+Problem Statement: Write a Java program to reverse a given number using a for loop.
+
+📌Day 13: Reverse a Given String
+
+Problem Statement: Write a Java program to reverse a given string.
+
+📌Day 13: Check If a Number Is Prime Using a For Loop
+
+Problem Statement: Write a Java program to check if a number is prime or not using a for loop.
+
+📌Day 14: Calculate the Factorial of a Number Using a do-while Loop
+
+Problem Statement: Write a Java program to calculate the factorial of a number using a do-while loop.
+
+📌Day 14: Find the Sum of Prime Numbers in a Given Range Using a do-while Loop
+
+Problem Statement: Write a Java program to find the sum of prime numbers in a given range using a do-while loop.
+
+📌Day 15: Print the Fibonacci Series Up to a Given Number Using a for Loop
+
+Problem Statement: Write a Java program to print the Fibonacci series up to a given number using a for loop.
+
+📌Day 15: Find All Prime Numbers in a Given Range Using a for Loop
+
+Problem Statement: Write a Java program to find all prime numbers in a given range using a for loop.
+
+📌Day 16: Find the Sum of an Array of Integers
+
+Problem Statement: Write a Java program to find the sum of an array of integers.
+
+📌Day 16: Find the Maximum Element in an Array
+
+Problem Statement: Write a Java program to find the maximum element in an array.
+
+📌Day 17: Print a Simple Right-Angled Triangle Pattern of Asterisks
+
+Problem Statement: Write a Java program to print a simple right-angled triangle pattern of asterisks
+
+📌Day 17:Print a Hollow Square Pattern of Asterisks
+
+Problem Statement:Write a Java program to print a hollow square pattern of asterisks.
+
 
 
 
